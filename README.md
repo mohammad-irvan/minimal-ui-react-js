@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<p align="center"><img src="https://img.shields.io/github/downloads/mohammad-irvan/minimal-ui-react-js/total?style=flat-square"></p>
 ## 1.Install
 
 ### npm
